@@ -15,7 +15,7 @@ En requeriments.txt se encuentra el ambiente que se utilizó, aunque no todas la
 
 - api.png : Ejemplo de salida de la API
 - app.py : Script para crear la API
-- requests.py : Script para hacer solicitudes a la API
+- request.py : Script para hacer solicitudes a la API
 - requeriments : librerías del ambiente que se utilizó
 
 
