@@ -28,7 +28,7 @@ En requeriments.txt se encuentra el ambiente que se utilizó, aunque no todas la
 
 ## Ejecutar la API
 1. Correr desde terminal ---> python app.py de esta manera la API estará preparada para recibir solicitudes.
-2. Correr el script de requests ---> requests.py  para realizar solicitudes, si se desea probar otras oraciones modificar la variable data.
+2. Correr el script de requests ---> request.py  para realizar solicitudes, si se desea probar otras oraciones modificar la variable data.
 3. Al seguir los pasos correctamente se obtienen los resultados para el reconocimiento de entidades nombradas.
 
 ## Ejemplo de la salida de la API
