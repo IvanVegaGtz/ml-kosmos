@@ -1,5 +1,5 @@
-# API de Flask para el reconocimiento de entidades
-nombradas con Phyton
+# API de Flask para el reconocimiento de entidades nombradas con Phyton 
+
 API REST sencilla que recibe una lista de oraciones en español y devuelve una lista de las entidades nombradas identificadas en cada oración. Para realizar la API se utilizó Flask y para el modelo de reconocimiento de entidades nombradas (en inglés NER) se utilizó Spacy, específicament el modelo es_core_news_sm.
 
 ## Requisitos
